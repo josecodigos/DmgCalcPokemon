@@ -15,7 +15,7 @@ $(document).ready(function () {
     { id: 12, nome: "bug", index: 11 },
     { id: 13, nome: "rock", index: 12 },
     { id: 14, nome: "ghost", index: 13 },
-    { id: 15, nome: "dragon", index: 14 },
+    { id: 15, nome: "drago", index: 14 },
   ];
   const interacaoTipos = [
     [
