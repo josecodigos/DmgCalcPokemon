@@ -1,0 +1,71 @@
+.btn {
+  background-color: #2196F3;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: solid;
+  outline-style: ridge;
+}
+
+
+
+.dano {
+  background-color: rgb(196, 194, 191);
+  width: 60vw;
+  height: 27vh;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  text-align: center;
+  margin: auto;
+  border-style: ridge;
+  border-width: 5px;
+  border-radius: 20px;
+  border-color: darkgray;
+}
+
+
+.pokemon1 {
+  background-color: rgb(183, 192, 188);
+  width: 460px;
+  height: 70vh;
+  flex-shrink: 0;
+  text-align: left;
+  flex-direction: row;
+  border-style: ridge;
+  border-width: 5px;
+  border-radius: 20px;
+  border-color: darkgray;
+
+}
+
+.pokemon2 {
+  background-color: rgb(183, 192, 188);
+  width: 460px;
+  height: 70vh;
+  flex-shrink: 0;
+  text-align: left;
+  flex-direction: column;
+  border-style: ridge;
+  border-width: 5px;
+  border-radius: 20px;
+  border-color: darkgray;
+}
+
+.bg {
+  background-image: url(/imagens/poke1.jpg);
+}
+
+.tipopkmn {
+  border: 1px;
+  border-style: solid;
+}
+
+.textDano {
+  font-weight: bold;
+}
+
+.moveb{
+  border: 1px;
+  border-style: solid;
+}
+
